@@ -1,0 +1,16 @@
+.join{
+    display: flex;
+    justify-content: center;
+}
+
+.join-item{
+    background-color: var(--daisy-secondary);
+    border-color: var(--daisy-pink5);
+    color: var(--daisy-brown);
+}
+
+.join-item:hover{
+    color: var(--daisy-pink6);
+    background-color: var(--daisy-primary);
+    border-color: var(--daisy-pink5);
+}

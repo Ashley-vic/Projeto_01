@@ -1,0 +1,18 @@
+.btn-ghost{
+    margin-left: 10px;
+    font-weight: 500;
+    color: var(--daisy-primary);
+}
+
+.navbar{
+    background-color: var(--daisy-secondary);
+}
+
+.card-compact{
+    color: var(--daisy-primary);
+}
+
+.dropdown-end{
+    margin-left: 20px;
+}
+
